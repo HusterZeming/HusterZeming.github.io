@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Hexo</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2020-07-29T06:33:11.093Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>John Doe</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>房东的猫</title>
+    <link href="http://yoursite.com/2020/07/29/my-blog/"/>
+    <id>http://yoursite.com/2020/07/29/my-blog/</id>
+    <published>2020-07-29T03:16:53.000Z</published>
+    <updated>2020-07-29T06:33:11.093Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h2 id=&quot;美好事物&quot;&gt;&lt;a href=&quot;#美好事物&quot; class=&quot;headerlink&quot; title=&quot;美好事物&quot;&gt;&lt;/a&gt;美好事物&lt;/h2&gt;&lt;p&gt;热夏 你归来
+        
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+</feed>
